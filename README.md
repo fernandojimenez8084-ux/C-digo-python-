@@ -24,15 +24,7 @@ Donde:
 - **Ix / Iy:** Momentos de inercia.
 - **x / y:** Distancias desde el eje neutro a los puntos críticos.
 
-##  Instalación y Uso
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com
-   ```
-2. Ejecuta el archivo `.py`:
-   ```bash
-   python U3_ACT_02.py
-   ```
+
 
 ##  Colaboradores
 * **Nombre del Integrante 1** - [@HugoGC-In](https://github.com)
